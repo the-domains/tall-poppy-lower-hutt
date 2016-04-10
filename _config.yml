@@ -1,0 +1,28 @@
+name: Tall Poppy Lower Hutt
+favicon: null
+layout_spectrum: 0.7559374556876719
+typography_spectrum: 0.6864211792126298
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.299738283501938
+  lightness: 0.29178674798458815
+  saturation: 0.8499821287114173
+  rhythmicContrast: 0.14007778465747833
+purpose: []
