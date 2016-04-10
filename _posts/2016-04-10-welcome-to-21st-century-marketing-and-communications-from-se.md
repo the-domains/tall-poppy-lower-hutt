@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Welcome to 21st century marketing and communications from service professionals.
-datePublished: '2016-04-10T10:41:20.982Z'
-dateModified: '2016-04-10T10:41:17.916Z'
+datePublished: '2016-04-10T10:43:06.508Z'
+dateModified: '2016-04-10T10:42:49.584Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-10-welcome-to-21st-century-marketing-and-communications-from-se.md
@@ -41,4 +41,4 @@ M: 022 410 3983
 
 E: paul.doney@tallpoppy.co.nz
 
-W:
+W: http://tallpoppy.co.nz/contact-us/paul-doney/
